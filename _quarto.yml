@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: ""
-  site-url: 
+  title: "Jerin's Personal Blog"
+  site-url: https://jerin248486.github.io/personal_blog/
   twitter-card:
     creator: "@UMassDACSS"
     site: "@UMassDACSS"
@@ -12,7 +12,7 @@ website:
     background: "#881c1c"
     logo: images/UMass White Wordmark Horiz.png
     right:
-      - text: "August 2022 Posts"
+      - text: "Testing"
         href: https://dacss.github.io/DACSS_601_August2022_v2
       - text: "Contributors"
         file: about.qmd

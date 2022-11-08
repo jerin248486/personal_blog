@@ -1,5 +1,8 @@
 ---
-title: "DACSS 601 August 2022"
+title: "Jerin's Blog"
+author: "Jerin Jacob"
+desription: "This is a blog about Jerin Jacob. It talks about the professional experience, education and personal interests of Jerin."
+date: "08/02/2022"
 listing:
   contents: posts
   sort: "date desc"
@@ -7,4 +10,4 @@ listing:
   categories: true
 ---
 
-The blog posts here are contributed by students enrolled in DACSS 601, Fundamentals of Data Science. The course provides students with an introduction to R and the tidyverse, scientific publishing, and collaboration through GitHub, building a foundation for future coursework. Students also are introduced to general data management and data wrangling skills, with an emphasis on best practice workflows and tidy data management.
+I am Jerin Jacob. I was an entrepreneur for 5 years and a marketer for 11 years. I worked in retail, IT industry, car rental, contracting, ecommerce and consulting. When I understood the importance of data, I decided to do a Master's program in Data Science. The Data Analytics and Computational Social Science program gives me the state of the art data science skills to bridge the business world and technology with a social science perspective. This unique combination of skill sets and experience makes me the ideal candidate to help organizations solve problems with well informed, data driven decision making. 
