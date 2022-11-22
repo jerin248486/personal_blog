@@ -1,0 +1,14 @@
+{
+  "hash": "9134ef98a690a0e37e2c450392810928",
+  "result": {
+    "markdown": "---\ntitle: \"My Resume\"\nauthor: \"Jerin Jacob\"\ndesription: \"This is the most updated resume of Jerin Jacob\"\ndate: \"11/08/2022\"\nformat:\n  html:\n    toc: true\n    code-fold: true\n    code-copy: true\n    code-tools: true\ncategories:\n  - personal_blog\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n\nknitr::opts_chunk$set(echo = TRUE)\n```\n:::\n\n\n## JERIN JACOB\n#### Worcester, MA|857-746-1136| jerin248486@gmail.com | LinkedIn \n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
