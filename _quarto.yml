@@ -10,7 +10,7 @@ website:
   favicon: images/DACSS_Round_Network.png
   navbar:
     background: "#881c1c"
-    logo: images/UMass White Wordmark Horiz.png
+    logo: images/Jerin_image/headshot_jerin.jpg
     right:
       - text: "Testing"
         href: https://dacss.github.io/DACSS_601_August2022_v2
