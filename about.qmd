@@ -8,7 +8,7 @@ listing:
 ---
 <style>
 img {
-  border-radius: 50%;
+  border-radius: 45%;
 }
 </style>
 <img src="images/Jerin_image/headshot_jerin.jpg" alt="hi" class="inline" width=300 />
