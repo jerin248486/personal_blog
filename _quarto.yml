@@ -13,10 +13,10 @@ website:
     logo: images/Jerin_image/headshot_jerin.jpg
     right:
       - text: "Home"
-        file: index.qmd
+        file: posts/index.qmd
       - text: "About"
-        file: about.qmd
-      - href: JerinJacob_Resume.pdf
+        file: posts/about.qmd
+      - href: posts/JerinJacob_Resume.pdf
         text: "Resume"
       - text: "Projects"
         href: https://www.linkedin.com/in/jerin-jacob-here
