@@ -11,7 +11,7 @@ img {
   border-radius: 50%;
 }
 </style>
-<img src="images/Jerin_image/headshot_jerin.jpg" alt="hi" class="inline" style="width:50"/>
+<img src="images/Jerin_image/headshot_jerin.jpg" alt="hi" class="inline" width=300 />
 <!-- To resize, use the ratio is width X 1.175 width (height = 1.175 width for the used picture) -->
 
 I grew up in the South Indian state called Kerala which is otherwise known as 'God's own country'. As a person who spent most of the life in a rural place, I love being with the nature and experience the moments. 
