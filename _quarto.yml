@@ -16,7 +16,7 @@ website:
         file: posts/index.qmd
       - text: "About"
         file: posts/about.qmd
-      - href: posts/JerinJacob_Resume.pdf
+      - href: posts/resume.qmd
         text: "Resume"
       - text: "Projects"
         href: https://www.linkedin.com/in/jerin-jacob-here
