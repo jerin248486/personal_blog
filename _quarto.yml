@@ -13,7 +13,7 @@ website:
     logo: images/Jerin_image/headshot_jerin.jpg
     right:
       - text: "Home"
-        href: https://dacss.github.io/DACSS_601_August2022_v2
+        href: https://jerin248486.github.io/personal_blog/
       - text: "About"
         file: about.qmd
       - href: https://umass.edu/sbs/dacss
