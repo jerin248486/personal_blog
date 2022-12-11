@@ -16,7 +16,7 @@ website:
         file: index.qmd
       - text: "About"
         file: about.qmd
-      - href: https://umass.edu/sbs/dacss
+      - href: JerinJacob_Resume.pdf
         text: "Resume"
       - text: "Projects"
         href: https://www.linkedin.com/in/jerin-jacob-here
