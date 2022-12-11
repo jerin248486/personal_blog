@@ -16,12 +16,14 @@ website:
         file: posts/index.qmd
       - text: "About"
         file: posts/about.qmd
-      - href: posts/resume.qmd
-        text: "Resume"
+      - text: "Resume"
+        file: posts/resume.qmd
       - text: "Projects"
-        href: posts/projects.qmd
-      - text: "Contact"
-        href: https://www.linkedin.com/in/jerin-jacob-here
+        file: posts/projects.qmd
+      - text: "Contact Me"
+        file: posts/contact_me.qmd
+      - text: "LinkedIn"
+        href: https://linkedin.com/in/jerin-jacob-here
       - icon: github
         href: https://github.com/jerin248486
         aria-label: GitHub

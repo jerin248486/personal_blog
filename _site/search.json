@@ -166,5 +166,33 @@
     "title": "Projects",
     "section": "Data Science Projects",
     "text": "Data Science Projects"
+  },
+  {
+    "objectID": "posts/contact_me.html",
+    "href": "posts/contact_me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/projects.html",
+    "href": "posts/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ABCd"
+  },
+  {
+    "objectID": "posts/projects.html#web-development-project",
+    "href": "posts/projects.html#web-development-project",
+    "title": "Projects",
+    "section": "Web Development Project",
+    "text": "Web Development Project"
+  },
+  {
+    "objectID": "posts/projects.html#data-science-projects",
+    "href": "posts/projects.html#data-science-projects",
+    "title": "Projects",
+    "section": "Data Science Projects",
+    "text": "Data Science Projects"
   }
 ]

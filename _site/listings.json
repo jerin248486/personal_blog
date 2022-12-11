@@ -20,5 +20,13 @@
   {
     "listing": "/posts/Projects.html",
     "items": []
+  },
+  {
+    "listing": "/posts/contact_me.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/projects.html",
+    "items": []
   }
 ]
