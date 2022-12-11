@@ -1,0 +1,14 @@
+---
+title: "Projects"
+listing:
+  type: grid
+  contents: about
+  fields: [image, title]
+  sort: "title"
+---
+## MBA Project
+ ABCd
+ 
+## Web Development Project
+ 
+## Data Science Projects
