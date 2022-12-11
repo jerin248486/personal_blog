@@ -1,5 +1,5 @@
 ---
-title: "Contributors"
+title: "About Me"
 listing:
   type: grid
   contents: about
@@ -7,6 +7,6 @@ listing:
   sort: "title"
 ---
 
-<img width=200, height=200 src="images/Jerin_image/headshot_jerin.jpg" alt="hi" class="inline"/>
+<img width=225, height=200 src="images/Jerin_image/headshot_jerin.jpg" alt="hi" class="inline"/>
 
 I grew up in the South Indian state called Kerala which is otherwise known as 'God's own country'. As a person who spent most of the life in a rural place, I love being with the nature and experience the moments. 
