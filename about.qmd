@@ -6,11 +6,11 @@ listing:
   fields: [image, title]
   sort: "title"
 ---
-<style>
-img {
-  border-radius: 45%;
-}
-</style>
+<!-- <style> -->
+<!-- img { -->
+<!--   border-radius: 45%; -->
+<!-- } -->
+<!-- </style> -->
 <img src="images/Jerin_image/headshot_jerin.jpg" alt="hi" class="inline" width=300 />
 <!-- To resize, use the ratio is width X 1.175 width (height = 1.175 width for the used picture) -->
 
