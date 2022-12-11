@@ -19,7 +19,7 @@ website:
       - href: posts/resume.qmd
         text: "Resume"
       - text: "Projects"
-        href: https://www.linkedin.com/in/jerin-jacob-here
+        href: posts/projects.qmd
       - text: "Contact"
         href: https://www.linkedin.com/in/jerin-jacob-here
       - icon: github
