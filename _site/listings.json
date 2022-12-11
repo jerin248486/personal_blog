@@ -8,5 +8,13 @@
   {
     "listing": "/about.html",
     "items": []
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/about.html",
+    "items": []
   }
 ]

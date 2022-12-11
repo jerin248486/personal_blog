@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://jerin248486.github.io/personal_blog/templates/AboutTemplate.html</loc>
-    <lastmod>2022-12-11T05:20:15.742Z</lastmod>
+    <lastmod>2022-12-11T19:59:26.744Z</lastmod>
   </url>
   <url>
     <loc>https://jerin248486.github.io/personal_blog/templates/PostTemplate.html</loc>
@@ -19,5 +19,13 @@
   <url>
     <loc>https://jerin248486.github.io/personal_blog/posts/abc.html</loc>
     <lastmod>2022-12-11T05:20:14.226Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jerin248486.github.io/personal_blog/posts/index.html</loc>
+    <lastmod>2022-12-11T19:59:24.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jerin248486.github.io/personal_blog/posts/about.html</loc>
+    <lastmod>2022-12-11T19:59:25.721Z</lastmod>
   </url>
 </urlset>
