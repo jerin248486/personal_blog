@@ -128,23 +128,23 @@
   {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
-    "title": "Jerin’s Blog",
+    "title": "Jerin Jacob",
     "section": "",
     "text": "No matching items"
   },
   {
     "objectID": "posts/about.html",
     "href": "posts/about.html",
-    "title": "About Me",
+    "title": "Hi, I am Jerin Jacob.",
     "section": "",
-    "text": "I grew up in the South Indian state called Kerala which is otherwise known as ‘God’s own country’. As a person who spent most of the life in a rural place, I love being with the nature and experience the moments.\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "About Me\nLike any other child born in this world, I was always curious about the ‘what’, ‘why’, and ‘how’ of everything I saw around me. Be it the growing process of a plant from a seed or an airplane flying in the sky, I had a lot of questions in my mind. This curiosity led me to the world of Physics where I could get answers to a lot of doubts that I had during my childhood. I joined an undergraduate program in Physics and started to enjoy my studies, especially the practical lab sessions where I could learn the theories by experimenting and experiencing them.\nThat’s when I started seriously encountering some data and numbers in my life. Even a minute mistake in the data collected during the experiments could get me a wrong result. This taught me the importance of clean and accurate data. During my summer vacations in college, I used to assist my cousin in his trading business. It patted my interest in marketing and business management. So I decided to do an MBA program after my undergraduate degree. From there onwards, I realized the importance of data in managing a business and in decision-making. For me, It was a day-to-day affair to deal with data to solve business problems and make better decisions backed by the available data. This continued throughout my career of more than 11 years, including 5 years of entrepreneurship and 2 years of business consulting.\nI am a person who understands the importance of continuous learning. I keep myself motivated to up-skill and widen my knowledge base regularly. During the covid-19 pandemic lockdown, I got more time to engage myself in learning. So, I decided to do a couple of online courses related to my career and personal interests. I strongly believe in making business decisions with the help of ‘informed intuition’. So I decided to explore business analytics and the technical side of data science. After finishing those online courses, I strongly felt an urge to learn more about data analytics and data science.\nEven though there are plenty of online courses available, I believe that being in an environment of learning and surrounded by other great minds will motivate me to push myself to the limits. I started to research the on-campus programs in data analytics and data science. My search for a program that could take me to the next level in my career ended up in the Masters program of Data Analytics and Computational Social Science at University of Massachusetts Amherst. With the analytical skills and problem-solving abilities, state of the art data science technical skills and knowledge and the professional experience I have, I am confident that I am able to solve the real world data science problems and help help organizations make the best informed decisions.\n\nTechnical Skills\nMy technical skills include R programming language, Python, Web application development with Django, MS Office, Tableue, HTML & CSS. I love farming, road trips and travelling and music. Another thing I always love to do is working on new personal projects be it a web application or data science project or even some DIY art project.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/resume.html",
     "href": "posts/resume.html",
     "title": "My Resume",
     "section": "",
-    "text": "Resume\nJERIN JACOB Worcester, MA|857-746-1136| jerin248486@gmail.com | LinkedIn EDUCATION\nMaster of Science in Data Analytics and Computational Social Science |AUG 2022- EXPECTED DEC 2023 | University of Massachusetts, Amherst, MA Relevant Coursework: Introduction to Data Science, Research Design, Public Opinion in Politics MBA (Marketing)|MAY 2011 University of Kerala|CGPA: 6.9 Relevant Coursework: Marketing Management, Business Communication, Advertising & Sales Promotion, Brand Management Bachelor of Science in Physics | MAR 2008 Mahatma Gandhi University | CCPA: 6.3\nPROFESSIONAL EXPERIENCE\nCareer Ambassador | Data Analytics and Computational Social Science, Amherst, MA SEP 2022- PRESENT | Manage and promote LinkedIn Page, Curate Handshake content for the biweekly newsletter, Develop and deploy student surveys, Manage the ‘Minute Fund’ and ‘UMass Gives’ fundraising efforts for DACSS program at University of Massachusetts, Amherst. Business Consultant|Freelance MAR 2020- JUL 2022 Helped the clients to build and execute a marketing strategy for monthly, quarterly, and annual plans to achieve a 35% increase in the annual revenue growth. Designed and implemented a brand management program for clients to increase brand recognition and brand loyalty. Managing Director | Eazyshopy by Cresoul Trading & Logistics Pvt Ltd, INDIA NOV 2014-DEC 2019 Headed the business development and operations of the startup to achieve more than 80% annual growth in revenue in 4 consecutive years Developed the brand identities and created a strong brand consciousness among the target population Built and improved the infrastructure and resources for the startup Headed the recruitment and HR development Identified new market channels and executed the market penetration Strategic Consulting, including business plan & sales strategy development. Marketing Specialist |Eastern Hazar, Saudi Arabia OCT 2012-OCT 2014 Developed Marketing materials and updated at regular intervals Managed the social media accounts and communities Developed and executed the digital marketing campaigns for the company Constantly interacted with the shop floor managers and the technical team to make sure the customer gets delighted Headed the sales and marketing for the Eastern province, Saudi Arabia\nMarketing Manager |Sookshmatech Integral Techno Solutions Pvt Ltd, India MAY 2011-APR 2012 Key responsibilities included Ad making, Media Management, Social Media Marketing, Prepare Marketing Collaterals, Market Research, Identifying Target Customers, Sales Presentation & Closing the deal\nAssistant Store Manager |PJ Electronics & Home Appliance shop, India JUN 2008-MAY 2009 Assisted in day-to-day operations of the store and actively participated in the merchandising\nDOMAIN SKILLS\n• Programming Languages: R, SQL, Python, HTML & CSS • Reporting and Analytical tools: R, Advanced MS Excel, Tableau • Soft Skills: Communication skills, Adaptability, Attention to detail, Time Management, Negotiation Skill. RELEVANT PROJECTS\nStudy on the effect of embedded marketing in movies of regional language in Kerala, India FEB-MAR 2011 The research was conducted on the effectiveness of embedded marketing and the results. Respondents from multiple demographic groups were surveyed and some of the industry people were interviewed to do the study. The responses of the questionnaire were statistically analyzed and resulted in a positive correlation to the brand recollection but no direct dependence of improvement of sales was observed. ACHIEVEMENTS\nWorked in the organizing team of multiple inter-collegiate events | 2009-2011 Chaired as the Joint Secretary, Core Executive Committee for MBA department | 2010-2011 Chaired the position of Secretary, KCYM at the parish for one year | 2006 - 2007"
+    "text": "Code\nlibrary(tidyverse)\n\nknitr::opts_chunk$set(echo = TRUE)"
   },
   {
     "objectID": "posts/Projects.html",
@@ -170,16 +170,16 @@
   {
     "objectID": "posts/contact_me.html",
     "href": "posts/contact_me.html",
-    "title": "About Me",
+    "title": "Contact",
     "section": "",
-    "text": "No matching items"
+    "text": "Get in Touch\njerin248486@gmail.com\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/projects.html",
     "href": "posts/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "ABCd"
+    "text": "Study on the effect of embedded marketing in movies of regional language in Kerala, India FEB-MAR 2011 The research was conducted on the effectiveness of embedded marketing and the results. Respondents from multiple demographic groups were surveyed and some of the industry people were interviewed to do the study. The responses of the questionnaire were statistically analyzed and resulted in a positive correlation to the brand recollection but no direct dependence of improvement of sales was observed."
   },
   {
     "objectID": "posts/projects.html#web-development-project",
@@ -194,5 +194,68 @@
     "title": "Projects",
     "section": "Data Science Projects",
     "text": "Data Science Projects"
+  },
+  {
+    "objectID": "posts/about.html#hi-i-am-jerin-jacob.",
+    "href": "posts/about.html#hi-i-am-jerin-jacob.",
+    "title": "About Me",
+    "section": "Hi, I am Jerin Jacob.",
+    "text": "Hi, I am Jerin Jacob.\nLike any other child born in this world, I was always curious about the ‘what’, ‘why’, and ‘how’ of everything I saw around me. Be it the growing process of a plant from a seed or an airplane flying in the sky, I had a lot of questions in my mind. This curiosity led me to the world of Physics where I could get answers to a lot of doubts that I had during my childhood. I joined an undergraduate program in Physics and started to enjoy my studies, especially the practical lab sessions where I could learn the theories by experimenting and experiencing them.\nThat’s when I started seriously encountering some data and numbers in my life. Even a minute mistake in the data collected during the experiments could get me a wrong result. This taught me the importance of clean and accurate data. During my summer vacations in college, I used to assist my cousin in his trading business. It patted my interest in marketing and business management. So I decided to do an MBA program after my undergraduate degree. From there onwards, I realized the importance of data in managing a business and in decision-making. For me, It was a day-to-day affair to deal with data to solve business problems and make better decisions backed by the available data. This continued throughout my career of more than 11 years, including 5 years of entrepreneurship and 2 years of business consulting.\nI am a person who understands the importance of continuous learning. I keep myself motivated to up-skill and widen my knowledge base regularly. During the covid-19 pandemic lockdown, I got more time to engage myself in learning. So, I decided to do a couple of online courses related to my career and personal interests. I strongly believe in making business decisions with the help of ‘informed intuition’. So I decided to explore business analytics and the technical side of data science. After finishing those online courses, I strongly felt an urge to learn more about data analytics and data science.\nEven though there are plenty of online courses available, I believe that being in an environment of learning and surrounded by other great minds will motivate me to push myself to the limits. I started to research the on-campus programs in data analytics and data science. My search for a program that could take me to the next level in my career ended up in the Masters program of Data Analytics and Computational Social Science at University of Massachusetts Amherst. With the analytical skills and problem-solving abilities, state of the art data science technical skills and knowledge and the professional experience I have, I am confident that I am able to solve the real world data science problems and help help organizations make the best informed decisions.\nMy technical skills include R programming language, Python, Web application development with Django, MS Office, Tableue, HTML & CSS. I love farming, road trips and travelling and music. Another thing I always love to do is working on new personal projects be it a web application or data science project or even some DIY art project."
+  },
+  {
+    "objectID": "posts/about.html#about-me",
+    "href": "posts/about.html#about-me",
+    "title": "Hi, I am Jerin Jacob",
+    "section": "About Me",
+    "text": "About Me\nLike any other child born in this world, I was always curious about the ‘what’, ‘why’, and ‘how’ of everything I saw around me. Be it the growing process of a plant from a seed or an airplane flying in the sky, I had a lot of questions in my mind. This curiosity led me to the world of Physics where I could get answers to a lot of doubts that I had during my childhood. I joined an undergraduate program in Physics and started to enjoy my studies, especially the practical lab sessions where I could learn the theories by experimenting and experiencing them.\nThat’s when I started seriously encountering some data and numbers in my life. Even a minute mistake in the data collected during the experiments could get me a wrong result. This taught me the importance of clean and accurate data. During my summer vacations in college, I used to assist my cousin in his trading business. It patted my interest in marketing and business management. So I decided to do an MBA program after my undergraduate degree. From there onwards, I realized the importance of data in managing a business and in decision-making. For me, It was a day-to-day affair to deal with data to solve business problems and make better decisions backed by the available data. This continued throughout my career of more than 11 years, including 5 years of entrepreneurship and 2 years of business consulting.\nI am a person who understands the importance of continuous learning. I keep myself motivated to up-skill and widen my knowledge base regularly. During the covid-19 pandemic lockdown, I got more time to engage myself in learning. So, I decided to do a couple of online courses related to my career and personal interests. I strongly believe in making business decisions with the help of ‘informed intuition’. So I decided to explore business analytics and the technical side of data science. After finishing those online courses, I strongly felt an urge to learn more about data analytics and data science.\nEven though there are plenty of online courses available, I believe that being in an environment of learning and surrounded by other great minds will motivate me to push myself to the limits. I started to research the on-campus programs in data analytics and data science. My search for a program that could take me to the next level in my career ended up in the Masters program of Data Analytics and Computational Social Science at University of Massachusetts Amherst. With the analytical skills and problem-solving abilities, state of the art data science technical skills and knowledge and the professional experience I have, I am confident that I am able to solve the real world data science problems and help help organizations make the best informed decisions."
+  },
+  {
+    "objectID": "posts/about.html#technical-skills",
+    "href": "posts/about.html#technical-skills",
+    "title": "Hi, I am Jerin Jacob",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nMy technical skills include R programming language, Python, Web application development with Django, MS Office, Tableue, HTML & CSS."
+  },
+  {
+    "objectID": "posts/about.html#my-interests",
+    "href": "posts/about.html#my-interests",
+    "title": "Hi, I am Jerin Jacob",
+    "section": "My Interests",
+    "text": "My Interests\nI love farming, road trips and travelling and music. Another thing I always love to do is working on new personal projects be it a web application or data science project or even some DIY art project."
+  },
+  {
+    "objectID": "posts/resume.html#education",
+    "href": "posts/resume.html#education",
+    "title": "My Resume",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nMaster of Science in Data Analytics and Computational Social Science | AUG 2022- EXPECTED DEC 2023 | University of Massachusetts, Amherst, MA Relevant Coursework: Introduction to Data Science, Research Design, Public Opinion in Politics\nMBA (Marketing) | MAY 2011 University of Kerala|CGPA: 6.9 Relevant Coursework: Marketing Management, Business Communication, Advertising & Sales Promotion, Brand Management\nBachelor of Science in Physics | MAR 2008 Mahatma Gandhi University | CCPA: 6.3"
+  },
+  {
+    "objectID": "posts/resume.html#professional-experience",
+    "href": "posts/resume.html#professional-experience",
+    "title": "My Resume",
+    "section": "PROFESSIONAL EXPERIENCE",
+    "text": "PROFESSIONAL EXPERIENCE\nCareer Ambassador | Data Analytics and Computational Social Science, Amherst, MA SEP 2022- PRESENT | Manage and promote LinkedIn Page, Curate Handshake content for the biweekly newsletter, Develop and deploy student surveys, Manage the ‘Minute Fund’ and ‘UMass Gives’ fundraising efforts for DACSS program at University of Massachusetts, Amherst.\nBusiness Consultant|Freelance MAR 2020- JUL 2022 Helped the clients to build and execute a marketing strategy for monthly, quarterly, and annual plans to achieve a 35% increase in the annual revenue growth. Designed and implemented a brand management program for clients to increase brand recognition and brand loyalty.\nManaging Director | Eazyshopy by Cresoul Trading & Logistics Pvt Ltd, INDIA NOV 2014-DEC 2019 Headed the business development and operations of the startup to achieve more than 80% annual growth in revenue in 4 consecutive years Developed the brand identities and created a strong brand consciousness among the target population Built and improved the infrastructure and resources for the startup Headed the recruitment and HR development Identified new market channels and executed the market penetration Strategic Consulting, including business plan & sales strategy development.\nMarketing Specialist |Eastern Hazar, Saudi Arabia OCT 2012-OCT 2014 Developed Marketing materials and updated at regular intervals Managed the social media accounts and communities Developed and executed the digital marketing campaigns for the company Constantly interacted with the shop floor managers and the technical team to make sure the customer gets delighted Headed the sales and marketing for the Eastern province, Saudi Arabia\nMarketing Manager |Sookshmatech Integral Techno Solutions Pvt Ltd, India MAY 2011-APR 2012 Key responsibilities included Ad making, Media Management, Social Media Marketing, Prepare Marketing Collaterals, Market Research, Identifying Target Customers, Sales Presentation & Closing the deal\nAssistant Store Manager |PJ Electronics & Home Appliance shop, India JUN 2008-MAY 2009 Assisted in day-to-day operations of the store and actively participated in the merchandising"
+  },
+  {
+    "objectID": "posts/resume.html#domain-skills",
+    "href": "posts/resume.html#domain-skills",
+    "title": "My Resume",
+    "section": "DOMAIN SKILLS",
+    "text": "DOMAIN SKILLS\nProgramming Languages: R, SQL, Python, HTML & CSS\nReporting and Analytical tools: R, Advanced MS Excel, Tableau\nSoft Skills: Communication skills, Adaptability, Attention to detail, Time Management, Negotiation Skill."
+  },
+  {
+    "objectID": "posts/resume.html#relevant-projects",
+    "href": "posts/resume.html#relevant-projects",
+    "title": "My Resume",
+    "section": "RELEVANT PROJECTS",
+    "text": "RELEVANT PROJECTS\nStudy on the effect of embedded marketing in movies of regional language in Kerala, India FEB-MAR 2011 The research was conducted on the effectiveness of embedded marketing and the results. Respondents from multiple demographic groups were surveyed and some of the industry people were interviewed to do the study. The responses of the questionnaire were statistically analyzed and resulted in a positive correlation to the brand recollection but no direct dependence of improvement of sales was observed."
+  },
+  {
+    "objectID": "posts/resume.html#achievements",
+    "href": "posts/resume.html#achievements",
+    "title": "My Resume",
+    "section": "ACHIEVEMENTS",
+    "text": "ACHIEVEMENTS\nWorked in the organizing team of multiple inter-collegiate events | 2009-2011 Chaired as the Joint Secretary, Core Executive Committee for MBA department | 2010-2011 Chaired the position of Secretary, KCYM at the parish for one year | 2006 - 2007"
   }
 ]

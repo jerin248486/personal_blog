@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Contact"
 listing:
   type: grid
   contents: about
@@ -7,6 +7,14 @@ listing:
   sort: "title"
 ---
 
+Don’t hesitate to reach out with the contact information below, or send a message using the form. I would love to connect!
 
-##Contact Me
+
+### **Get in Touch**
+
+jerin248486@gmail.com
+
+
+
+
 
