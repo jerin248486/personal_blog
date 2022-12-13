@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jerin Jacob">
+<meta name="dcterms.date" content="2022-08-02">
 
-<title>Jerin’s Personal Blog - DACSS 601 August 2022</title>
+<title>Jerin’s Personal Blog - Jerin’s Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,9 +70,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -90,8 +92,8 @@ ul.task-list{list-style: none;}
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta name="twitter:title" content="Jerin’s Personal Blog - DACSS 601 August 2022">
-<meta name="twitter:description" content="The blog posts here are contributed by students enrolled in DACSS 601, Fundamentals of Data Science.">
+<meta name="twitter:title" content="Jerin’s Personal Blog - Jerin’s Blog">
+<meta name="twitter:description" content="I am Jerin Jacob. I was an entrepreneur for 5 years and a marketer for 11 years. I worked in retail, IT industry, car rental, contracting, ecommerce and consulting.">
 <meta name="twitter:creator" content="@UMassDACSS">
 <meta name="twitter:card" content="summary">
 </head>
@@ -103,7 +105,7 @@ ul.task-list{list-style: none;}
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <a class="navbar-brand" href="./index.html">
-    <img src="./images/UMass White Wordmark Horiz.png" alt="">
+    <img src="./images/Jerin_image/headshot_jerin.jpg" alt="">
     <span class="navbar-title">Jerin’s Personal Blog</span>
   </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -112,16 +114,22 @@ ul.task-list{list-style: none;}
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://dacss.github.io/DACSS_601_August2022_v2">August 2022 Posts</a>
+    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">Contributors</a>
+    <a class="nav-link" href="./about.html">About</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://umass.edu/sbs/dacss">DACSS</a>
+    <a class="nav-link" href="./JerinJacob_Resume.pdf">Resume</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.linkedin.com/in/jerin-jacob-here">Projects</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.linkedin.com/in/jerin-jacob-here">Contact</a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/DACSS/DACSS_601_August2022_v2"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/jerin248486"><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
  </a>
   </li>  
@@ -140,34 +148,77 @@ ul.task-list{list-style: none;}
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="personal_blog">personal_blog <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">DACSS 601 August 2022</h1>
+<h1 class="title">Jerin’s Blog</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jerin Jacob </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">August 2, 2022</p>
+    </div>
+  </div>
     
   </div>
   
 
 </header>
 
-<p>The blog posts here are contributed by students enrolled in DACSS 601, Fundamentals of Data Science. The course provides students with an introduction to R and the tidyverse, scientific publishing, and collaboration through GitHub, building a foundation for future coursework. Students also are introduced to general data management and data wrangling skills, with an emphasis on best practice workflows and tidy data management.</p>
+<p>I am Jerin Jacob. I was an entrepreneur for 5 years and a marketer for 11 years. I worked in retail, IT industry, car rental, contracting, ecommerce and consulting. When I understood the importance of data, I decided to do a Master’s program in Data Science. The Data Analytics and Computational Social Science program gives me the state of the art data science skills to bridge the business world and technology with a social science perspective. This unique combination of skill sets and experience makes me the ideal candidate to help organizations solve problems with well informed, data driven decision making.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="personal_blog" data-listing-date-sort="1667883600000" data-listing-file-modified-sort="1669088478807" data-listing-reading-time-sort="0.065">
+<div class="body">
+<a href="./posts/abc.html">
+<h3 class="no-anchor listing-title">
+My Resume
+</h3>
+<div class="listing-subtitle">
 
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('personal_blog'); return false;">
+personal_blog
+</div>
+</div>
+<a href="./posts/abc.html">
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/abc.html">
+<div class="listing-date">
+Nov 8, 2022
+</div>
+<div class="listing-author">
+Jerin Jacob
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

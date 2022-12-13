@@ -1,10 +1,18 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/posts/Projects.html",
     "items": []
   },
   {
-    "listing": "/about.html",
+    "listing": "/posts/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/about.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/contact_me.html",
     "items": []
   }
 ]
