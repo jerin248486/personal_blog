@@ -1,47 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jerin248486.github.io/personal_blog/index.html</loc>
-    <lastmod>2022-12-11T19:51:32.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jerin248486.github.io/personal_blog/about.html</loc>
-    <lastmod>2022-12-11T19:53:24.803Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jerin248486.github.io/personal_blog/templates/AboutTemplate.html</loc>
-    <lastmod>2022-12-12T20:02:14.844Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jerin248486.github.io/personal_blog/templates/PostTemplate.html</loc>
-    <lastmod>2022-12-12T20:02:17.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jerin248486.github.io/personal_blog/posts/abc.html</loc>
-    <lastmod>2022-12-11T05:20:14.226Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jerin248486.github.io/personal_blog/posts/index.html</loc>
-    <lastmod>2022-12-12T20:39:29.295Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jerin248486.github.io/personal_blog/posts/about.html</loc>
-    <lastmod>2022-12-12T20:02:13.645Z</lastmod>
-  </url>
-  <url>
     <loc>https://jerin248486.github.io/personal_blog/posts/resume.html</loc>
-    <lastmod>2022-12-12T20:02:08.802Z</lastmod>
+    <lastmod>2022-12-13T00:05:49.290Z</lastmod>
   </url>
   <url>
     <loc>https://jerin248486.github.io/personal_blog/posts/Projects.html</loc>
-    <lastmod>2022-12-12T20:38:21.663Z</lastmod>
+    <lastmod>2022-12-13T00:05:52.072Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jerin248486.github.io/personal_blog/posts/index.html</loc>
+    <lastmod>2022-12-13T00:05:52.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jerin248486.github.io/personal_blog/posts/about.html</loc>
+    <lastmod>2022-12-13T00:05:53.832Z</lastmod>
   </url>
   <url>
     <loc>https://jerin248486.github.io/personal_blog/posts/contact_me.html</loc>
-    <lastmod>2022-12-12T20:02:14.532Z</lastmod>
+    <lastmod>2022-12-13T00:05:54.721Z</lastmod>
   </url>
   <url>
-    <loc>https://jerin248486.github.io/personal_blog/posts/projects.html</loc>
-    <lastmod>2022-12-12T17:43:25.661Z</lastmod>
+    <loc>https://jerin248486.github.io/personal_blog/templates/AboutTemplate.html</loc>
+    <lastmod>2022-12-13T00:05:55.046Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jerin248486.github.io/personal_blog/templates/PostTemplate.html</loc>
+    <lastmod>2022-12-13T00:05:58.746Z</lastmod>
   </url>
 </urlset>
